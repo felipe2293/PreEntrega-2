@@ -1,0 +1,7 @@
+{
+    "printWidht":100,
+    "tabWidht":2,
+    "singleQuote":false,
+    "bracketSameline":true,
+    "trailingComa":"es5"
+}
